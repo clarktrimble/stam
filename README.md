@@ -3,6 +3,8 @@
 
 Yet another implementation of Joe Stam's famous fluid simulation.
 
+<img width="618" alt="fluidsim-screenshot" src="https://github.com/clarktrimble/stam/assets/5055161/edc7ad02-bf28-4a7a-8990-a5ce63eab2c8">
+
 ## Why?
 
 For fun!
